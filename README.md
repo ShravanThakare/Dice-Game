@@ -4,6 +4,7 @@ A simple dice game built with React.
 
 ![Project Image]
 
+![dicegame](https://github.com/ShravanThakare/Dice-Game/assets/108409480/6de46f38-40e4-4475-af0a-46cdb76df3a3)
 
 
 🌐 Live Demo
