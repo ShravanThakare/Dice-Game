@@ -2,11 +2,13 @@
 
 A simple dice game built with React.
 
-![Project Image](url/to/your/project-image.png)
+![Project Image]
+
 
 
 🌐 Live Demo
 Check out the live demo here.
+https://dicegamebyshravanthakare.netlify.app/
 
 🛠️ Technologies Used
 React: A JavaScript library for building user interfaces.
